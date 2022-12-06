@@ -29,7 +29,7 @@ Inside each folder, there are two Jupyter notebook files:
 
 | Day | My Results | Line Count | Correct Answer | Code Rating | chatGPT Results | Line Count | Correct Answer | Code Rating |
 | --- | ------ | ---------- | -------------------- | ----------- | ------ | ---------- | -------------------- | ----------- |
-| 1 | [Day 1](day1/my_results.ipynb) | 15 | :white_check_mark: | :star: | [Day 1](day1/chatGPT_results.ipynb) | 12 | :white_check_mark: | :star::star: |
+| 1 | [Day 1](day1/my_results.ipynb) | 15 | :white_check_mark: | :star: | [Day 1](day1/chatGPT_results.ipynb) | 12 | :x: | :star: |
 | 2 | [Day 2](day2/my_results.ipynb) | 20 | :white_check_mark: | :star::star: | [Day 2](day2/chatGPT_results.ipynb) | 22 | :white_check_mark: | :star: |
 | 3 | [Day 3](day3/my_results.ipynb) | 25 | :white_check_mark: | :star: | [Day 3](day3/chatGPT_results.ipynb) | 30 | :white_check_mark: | :star: |
-| 4 | [Day 4](day4/my_results.ipynb) | 15 | :white_check_mark: | :star::star: | [Day4](day4/chatGPT_results.ipynb) | 20 | :white_check_mark: | :star: |
+| 4 | [Day 4](day4/my_results.ipynb) | 15 | :white_check_mark: | :star::star: | [Day 4](day4/chatGPT_results.ipynb) | 20 | :white_check_mark: | :star: |
