@@ -33,5 +33,5 @@ Inside each folder, there are two Jupyter notebook files:
 | 2 | [Day 2](day2/my_results.ipynb) | 20 | :white_check_mark: | [Day 2](day2/chatGPT_results.ipynb) | 22 | :x: |
 | 3 | [Day 3](day3/my_results.ipynb) | 25 | :white_check_mark: | [Day 3](day3/chatGPT_results.ipynb) | 30 | :x: |
 | 4 | [Day 4](day4/my_results.ipynb) | 15 | :white_check_mark: | [Day 4](day4/chatGPT_results.ipynb) | 20 | :white_check_mark: |
-| 5 | [Day 5](day5/my_results.ipynb) | 15 | :white_check_mark: | [Day 1](day5/chatGPT_results.ipynb) | 12 | :x: |
-| 6 | [Day 6](day6/my_results.ipynb) | 15 | :white_check_mark: | [Day 1](day6/chatGPT_results.ipynb) | 12 | :x: |
+| 5 | [Day 5](day5/my_results.ipynb) | 15 | :white_check_mark: | [Day 5](day5/chatGPT_results.ipynb) | 12 | :x: |
+| 6 | [Day 6](day6/my_results.ipynb) | 15 | :white_check_mark: | [Day 6](day6/chatGPT_results.ipynb) | 12 | :x: |
